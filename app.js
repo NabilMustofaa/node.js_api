@@ -45,5 +45,5 @@ app.get('/lecture/:nama', async (req, res) => {
 })
 
 app.listen(port,()=>{
-    console.log(`web services listinenig at http://localhost:${port}`)
+    console.log(`web services listinenig at https://nabilmustofaa.github.io/scoupus-api-webiste-test`)
 })
